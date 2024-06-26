@@ -1,0 +1,17 @@
+/* 导航栏样式 */
+.right-navigation {
+    position: fixed;
+    top: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.3);
+    padding: 10px;
+}
+
+    /* 导航链接样式 */
+.right-navigation a {
+    display: inline-block;
+    margin-right: 10px;
+    color: #fff;
+    text-decoration: none;
+}
+  
